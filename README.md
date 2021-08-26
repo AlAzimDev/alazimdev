@@ -14,8 +14,9 @@ My relationship with programming started at the age of 16 in a vocational high s
 
 ### Job Experiences
 
-- PT Proxsis Consulting Group (as Intern Junior Programmer), South Jakarta
-- KJA Risa Bur (as System Analyst), North Padang
+- PT Proxsis Consulting Group | as Intern Junior Programmer | South Jakarta
+- KJA Risa Bur                | as System Analyst           | North Padang
+- FURGETECH                   | as Web Developer            | Padang City
 
 ### Achievements
 
